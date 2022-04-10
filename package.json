@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deoncole/note_taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deoncole/note_taker/issues"
+  },
+  "homepage": "https://github.com/deoncole/note_taker#readme"
 }
