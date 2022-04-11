@@ -1,20 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test title 1",
-      "text": "Test text 1"
-    },
-    {
       "title": "Test Title 2",
-      "text": "Test text 2"
+      "text": "Test text 2",
+      "id": "1"
     },
     {
-      "title": "First Post",
-      "text": "First Post Text"
+      "title": "Make a new ID",
+      "text": "the new uuid should have been created",
+      "id": "6c9cee42-40e4-4aa4-8db3-30455712b970"
     },
     {
-      "title": "Second Post",
-      "text": "This is the second note"
+      "title": "Make it Delete",
+      "text": "we can delete it",
+      "id": "7028e02b-c0a6-44b1-93c7-20adc0844bea"
     }
   ]
 }
