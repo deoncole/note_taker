@@ -1,13 +1,20 @@
 {
-   "notes": [
-       {
-        "title":"Test Title",
-        "text":"Test text"
-       },
-       {
-        "title":"Test Title",
-        "text":"Test text"
-       }
-   ] 
+  "notes": [
+    {
+      "title": "Test title 1",
+      "text": "Test text 1"
+    },
+    {
+      "title": "Test Title 2",
+      "text": "Test text 2"
+    },
+    {
+      "title": "First Post",
+      "text": "First Post Text"
+    },
+    {
+      "title": "Second Post",
+      "text": "This is the second note"
+    }
+  ]
 }
-
